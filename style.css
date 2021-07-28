@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    display: flex;
+}
+.text{
+    padding-top: 25%;
+    
+}
+.text p{
+    margin: 15px 0 10px;
+}
+
+.highlight{
+    color: crimson;
+}
+.half-main{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-main img{
+    width: 75%;
+}
+
+
+.recipies-para{
+    margin-top: 50px;
+    text-align: center;
+    padding: 10%;
+}
+.one-third{
+    width: 33%;
+}
+.one-third img{
+    width: 75%;
+    padding-left: 5%;
+}
+.social-site{
+    width: 33%;
+    margin: 40px;
+    padding :10%;
+}
+.footer{
+    background-color: black;
+    background-size: cover;
+    height: 200px;
+    width: 1350px;
+    text-align: center;
+    
+}
+.footer h2{
+    color: crimson;
+    margin: 20px;
+    padding: 20px;
+}
+.footer p{
+    color:crimson;
+}
